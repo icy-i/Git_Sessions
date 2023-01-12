@@ -1,1 +1,2 @@
-File2 created in slave1 branch
+File2 created in slave1 branch.
+This second line is edited in slave2.
